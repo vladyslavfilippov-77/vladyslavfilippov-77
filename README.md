@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi there 👋, I'm Valdyslav
 
-<!--
-**vladyslavfilippov-77/vladyslavfilippov-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Web Developer | 💻 Building scalable, user-friendly apps | 🌍 Open to remote collaborations
 
-Here are some ideas to get you started:
+🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: HTML, CSS, JavaScript (ES6+), React, Next.js
+Backend: Node.js, Express, PHP, Python (Django/Flask)
+Databases: MySQL, PostgreSQL, MongoDB, Firebase
+Other Tools: Git, Docker, AWS, REST APIs, GraphQL
+
+📌 About Me
+
+🌱 I’m always learning modern web frameworks and cloud solutions
+
+🛠️ Passionate about turning ideas into real-world applications
+
+🤝 Open to freelance / remote / contract work
+
+⚡ Fun fact: I love solving coding challenges and automating boring stuff
